@@ -1,0 +1,20 @@
+{
+  "name": "docker-td1",
+  "version": "1.0.0",
+  "description": "Travail dirigé avec Docker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "exercice",
+    "docker",
+    "dockerfile"
+  ],
+  "author": "Alexandre Devos",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
